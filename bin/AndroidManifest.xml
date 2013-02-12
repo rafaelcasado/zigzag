@@ -32,6 +32,11 @@
             android:name="com.zigzagdigital.zigzag.AboutActivity"
             android:label="@string/app_name">
         </activity>
+        
+        <activity
+            android:name="com.zigzagdigital.zigzag.ArticleList"
+            android:label="@string/app_name">
+        </activity>
     </application>
 
 </manifest>
