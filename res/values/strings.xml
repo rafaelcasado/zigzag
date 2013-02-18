@@ -6,5 +6,7 @@
     <string name="menu_settings">Settings</string>
     <string name="splash_texto">Noticias de Pinto, Ciempozuelos, San Martín, Valdemoro y Madrid.</string>
     <string name="splash_boton">Leer noticias de Pinto, Ciempozuelos, San Martín, Valdemoro y Madrid.</string>
+    <string name="about_texto">Diario ZigZag bla bla bla bla muy contentos</string>
+    <string name="about_boton_texto">Acerca de</string>
 
 </resources>
