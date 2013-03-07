@@ -5,8 +5,32 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="splash_texto">Noticias de Pinto, Ciempozuelos, San Martín, Valdemoro y Madrid.</string>
-    <string name="splash_boton">Leer noticias de Pinto, Ciempozuelos, San Martín, Valdemoro y Madrid.</string>
+    <string name="splash_boton">Pulsa para leer noticias de Pinto, Ciempozuelos, San Martín, Valdemoro y Madrid.</string>
     <string name="about_texto">Diario ZigZag bla bla bla bla muy contentos</string>
     <string name="about_boton_texto">Acerca de</string>
-
+    <string name="about_editor">Agustín Alfaya</string>
+    <string name="about_director">Blanca Muñoz</string>
+    <string name="about_redactores">Esther A. Muñoz, Ana Encinas, Raúl Martos, Laura Rodríguez, Eva Redondo, Juan Abarca, Jimena Borrego, Carmen Otero, Carlos Lapeña (columnista)</string>
+    <string name="about_publicidad">Blanca Muñoz (Pinto), Salvador Laura (Ciempozuelos y San Martín de la Vega)</string>
+    <string name="about_maquetacion">Esther A. Muñoz, Diseño Portadas: José Mª López</string>
+    <string name="about_secretaria">Alejandro Araujo</string>
+    <string name="about_distribucion">ZigZag es una publicación de EDITORIAL ALFASUR S.L.</string>
+    <string name="about_app">Aplicación Android creada por Rafael Casado</string>    
+    <string name="about_direccion">Cañada Real de la Mesta s/n. 28320 Pinto (Madrid)</string>
+    <string name="about_telefono">Tel: 91 698 74 42</string>
+    <string name="about_fax">Fax: 91 692 44 65</string>
+    <string name="about_email">e-mail: pinto@zigzagdigital.com</string>
+    <string name="about_telefono_publicidad">Publicidad: 91 698 74 42 y 655 945 522</string>    
+    <string name="about_buzoneo">ZIGZAG buzonea cada mes 26.000 ejemplares gratuitos. De la edición de Pinto se distribuyen 15.000 ejemplares mensuales. De la edición de Las Vegas 11.000 ejemplares.</string>
+    <string name="about_responsabilidad">Los artículos firmados son responsabilidad de sus autores</string>
+    <string name="about_historia">La revista ZigZag comenzó a publicarse en Pinto en 1990. Actualmente es la publicación decana de la prensa gratuita de la comunidad de Madrid. D.L: M-47400/1999</string>
+    <string name="about_editor_title">DIRECTOR:</string>
+    <string name="about_director_title">EDITOR:</string>
+    <string name="about_redactores_title">REDACTORES:</string>
+    <string name="about_publicidad_title">PUBLICIDAD:</string>
+    <string name="about_maquetacion_title">MAQUETACIÓN:</string>
+    <string name="about_secretaria_title">SECRETARÍA:</string>
+    <string name="about_distribucion_title">DISTRIBUCIÓN:</string>
+    <string name="about_app_title">APLICACIÓN ANDROID:</string>
+    
 </resources>
